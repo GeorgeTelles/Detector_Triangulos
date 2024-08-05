@@ -12,7 +12,7 @@ Versão 1: Identificação de triangulos de 1 unico ativo puxando dados diarios 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/Detector_Triangulos/blob/main/Detector_de_Padr%C3%A3o_Gr%C3%A1fico_Triangulo.ipynb)
 
 Versão 2: Identificação de triangulos de vários ativos ao mesmo tempo puxando dados diarios do Yahoo Finance
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/stock_vs_bdr/blob/main/Stock_vs_BDR.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/Detector_Triangulos/blob/main/Detector_de_Padr%C3%A3o_Gr%C3%A1fico_Triangulo_Multiativo.ipynb)
 
 Versão 3: Identificação de triangulos de 1 unico ativo puxando dados diarios ou intraday do MetaTrader5
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/stock_vs_bdr/blob/main/Stock_vs_BDR.ipynb)
