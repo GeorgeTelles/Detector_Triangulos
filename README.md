@@ -20,4 +20,4 @@ Versão 3: Identificação de triangulos de 1 unico ativo puxando dados diarios 
 Versão 4: Identificação de triangulos de vários ativos ao mesmo tempo puxando dados diarios ou intraday do MetaTrader5
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/stock_vs_bdr/blob/main/Stock_vs_BDR.ipynb)
 
-![detector de topos e fundos](https://github.com/GeorgeTelles/detector_rompimento_topos_fundos/blob/9ad082b8cb92bfec4c997aad1d372204979d46f5/img_detector.png)
+![plot triangulo](https://github.com/GeorgeTelles/Detector_Triangulos/blob/9f09a0276526ddbf114ada4128c3d273f6d633f5/plot.png)
